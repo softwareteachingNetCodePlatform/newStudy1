@@ -5,7 +5,7 @@ public class NewGitHubClass1 {
         System.out.println("GitHub Deneme");
         System.out.println("GitHub Deneme-2");
         System.out.println("GitHub Deneme-3");
-        system.out.println("GitHub dan Gelen Satır")
+        System.out.println("GitHub dan Gelen Satır")
 
 
     }

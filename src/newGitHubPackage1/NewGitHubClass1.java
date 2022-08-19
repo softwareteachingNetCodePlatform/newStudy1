@@ -4,9 +4,7 @@ public class NewGitHubClass1 {
     public static void main(String[] args) {
         System.out.println("GitHub Deneme");
         System.out.println("GitHub Deneme-2");
-        //merge yapıyoruz,hasandayız...
-        // ikinci merge deneme
-        // masterdan yeni göndericez
+        //master branch son satır burası
 
     }
 }

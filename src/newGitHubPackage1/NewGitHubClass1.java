@@ -6,5 +6,6 @@ public class NewGitHubClass1 {
         System.out.println("GitHub Deneme-2");
         //master branch son satır burası
         //hocayla masterg
+        //master 19.02 saat
     }
 }

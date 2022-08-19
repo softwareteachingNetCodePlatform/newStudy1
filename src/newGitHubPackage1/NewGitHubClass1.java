@@ -5,6 +5,6 @@ public class NewGitHubClass1 {
         System.out.println("GitHub Deneme");
         System.out.println("GitHub Deneme-2");
         //master branch son satır burası
-        //hocayla master
+        //hocayla masterg
     }
 }

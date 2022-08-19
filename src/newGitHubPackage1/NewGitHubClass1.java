@@ -7,6 +7,7 @@ public class NewGitHubClass1 {
         System.out.println("GitHub Deneme-3");
         System.out.println("GitHub dan Gelen Satır")
          // gitHub dan giden yeni-19.08.2022.
+           // yeni mesaj
 
     }
 }
